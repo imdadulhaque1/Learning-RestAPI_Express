@@ -1,0 +1,17 @@
+{
+  "name": "restapi-express",
+  "version": "1.0.0",
+  "description": "\"Practising RestApi and Express\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "RestAPI",
+    "ExpressJS",
+    "MongoDB"
+  ],
+  "author": "Imdadul Haque, <imdadul15-1440@diu.edu.bd>",
+  "license": "ISC"
+}
